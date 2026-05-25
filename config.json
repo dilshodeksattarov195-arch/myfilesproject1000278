@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervalidate",
+        "uuid": 278278,
+        "checksum": "56356d"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
